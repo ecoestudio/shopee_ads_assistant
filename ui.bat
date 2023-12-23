@@ -11,11 +11,12 @@ IF NOT EXIST PortableGit (
 IF NOT EXIST .git (
   PortableGit\bin\git.exe init
   PortableGit\bin\git.exe add .
-  PortableGit\bin\git.exe remote add origin https://github.com/clalanliu/ShopeeAdsAssistantPublic.git 
+  PortableGit\bin\git.exe remote add origin https://github.com/ecoestudio/playone_monitor.git
   PortableGit\bin\git.exe remote update
   PortableGit\bin\git.exe checkout master
 )
-PortableGit\bin\git.exe pull https://github.com/clalanliu/ShopeeAdsAssistantPublic.git
+PortableGit\bin\git.exe reset --hard HEAD
+PortableGit\bin\git.exe pull https://github.com/ecoestudio/playone_monitor.git --force
 
 if not defined PYTHON (set PYTHON=python)
 if not defined VENV_DIR (set "VENV_DIR=%~dp0%venv")
