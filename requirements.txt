@@ -1,0 +1,7 @@
+numpy
+pandas
+pycryptodome
+python_dateutil
+retry
+selenium==4.9.1
+streamlit==1.22.0

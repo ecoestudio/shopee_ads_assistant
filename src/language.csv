@@ -1,0 +1,29 @@
+id,en,zhtw
+0,Please enter the Shrimp Skin Advertising Assistant key,請輸入蝦皮廣告助手金鑰
+1,SAA Account,SAA帳號
+2,SAA Key,SAA金鑰
+3,Chrome record file location(chrome://version/),Chrome記錄檔位置(瀏覽器造訪chrome://version/，複製"設定檔路徑")
+4,Machine Code,機碼
+5,Shrimp account login,蝦皮帳號登入
+6,Enter your password,輸入蝦皮帳號密碼
+7,Please be assured that the shrimp skin account information is only kept locally.,請放心，蝦皮帳號資訊僅保留於本地端
+8,Account number,帳號
+9,Password,密碼
+10,Export account information,輸出帳號資料
+11,Please confirm your account key or your subscription status!,請確認帳號金鑰或是您的訂閱狀態!
+12,Click here to test,按此測試
+13,"Please confirm the account password. If you entered it correctly please contact ECOE",請確認帳號密碼。如果輸入無誤請聯絡ECOE尋求諮詢
+14,This is your ad list,這是您的廣告清單
+15,You can add new items or delete existing ones.,可以新增項目或是Delete既有項目
+16,Save ad list,儲存廣告清單
+17,Select the ad ID to retrieve data from,選擇要擷取資料的廣告ID
+18,Select ID,選擇ID
+19,One Click Crawl,一鍵爬取
+20,Ad keyword data,廣告關鍵字資料
+21,Generate bids with one click,一鍵生成競價
+22,Select the ad ID to be read in detail,選擇要細讀的廣告ID
+23,Bring out keyword strategy bids,帶出關鍵字策略出價
+24,Select the ad ID to be set with one click,選擇要一鍵設定的廣告ID
+25,Select ID,選擇ID
+26,One click setting,一鍵設定
+27,Reload data,重新載入csv
